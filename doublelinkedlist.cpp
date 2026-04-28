@@ -11,3 +11,4 @@ public:
     Node *prev;
 };
 
+class DoubleLinkedList
